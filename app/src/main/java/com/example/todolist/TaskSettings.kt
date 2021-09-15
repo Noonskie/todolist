@@ -3,8 +3,6 @@ package com.example.todolist
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.ImageView
-import com.example.todolist.databinding.ActivityMainBinding
 import com.example.todolist.databinding.ActivityTaskSettingsBinding
 
 class TaskSettings : AppCompatActivity() {
@@ -16,7 +14,7 @@ class TaskSettings : AppCompatActivity() {
         setContentView(binding.root)
 
 
-        val bBack = binding.ivBack as ImageView
+        val bBack = binding.ivBack
         bBack.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)

@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        val bPlus = binding.ivPlus as ImageView
+        val bPlus = binding.ivPlus
             bPlus.setOnClickListener{
             val intent = Intent(this, TaskSettings::class.java)
             startActivity(intent)
