@@ -3,28 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< HEAD
-        <entry key="..\:/development/android/AndroidStudioProjects/Collaboration/todolist/app/src/main/res/drawable/ic_rounded_corner.xml" value="0.20052083333333334" />
-        <entry key="..\:/development/android/AndroidStudioProjects/Collaboration/todolist/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
-=======
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.5703125" />
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.5703125" />
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/drawable/ic_baseline_settings_applications_24.xml" value="0.5703125" />
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/drawable/roundstyle.xml" value="0.5703125" />
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/layout/activity_main.xml" value="0.33" />
-<<<<<<< HEAD
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/layout/activity_main_task_settings.xml" value="0.26458333333333334" />
-        <entry key="..\:/Users/Noonskie/AndroidStudioProjects/todolist/app/src/main/res/layout/activity_task_setiings.xml" value="0.33" />
-=======
->>>>>>> 49009c4fb30444023079b7eb2b97f1b2e93ecdd7
->>>>>>> 367dedf97831aed197ba1a1dc53b5e0b88a6567b
+        <entry key="..\:/development/android/AndroidStudioProjects/Collaboration/todolist/app/src/main/res/layout/activity_main.xml" value="0.16203703703703703" />
+        <entry key="..\:/development/android/AndroidStudioProjects/Collaboration/todolist/app/src/main/res/layout/activity_task_settings.xml" value="0.16203703703703703" />
       </map>
     </option>
-  </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
   </component>
 </project>
